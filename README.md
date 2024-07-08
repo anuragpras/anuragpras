@@ -1,3 +1,4 @@
+<div style="background-color: white; padding: 20px;">
 <h1 align="center">Hi 👋, I'm Anurag</h1>
 <h3 align="center">A passionate CS Undergrad from India</h3>
 
