@@ -20,40 +20,23 @@ I am passionate about cloud computing and automation. Currently, I am learning S
 </p>
 
 ## Projects
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <a href="https://github.com/anuragpras/image-description-deep-learning">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=image-description-deep-learning&theme=radical" style="width: 45%;">
-  </a>
-  <a href="https://github.com/anuragpras/forecasting-hotel-booking-cancellations">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=forecasting-hotel-booking-cancellations&theme=radical" style="width: 45%;">
-  </a>
-  <a href="https://github.com/anuragpras/cafe-sales-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=cafe-sales-analysis&theme=radical" style="width: 45%;">
-  </a>
-  <a href="https://github.com/anuragpras/exploratory-data-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=exploratory-data-analysis&theme=radical" style="width: 45%;">
-  </a>
-  <a href="https://github.com/anuragpras/pizza-sales-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=pizza-sales-analysis&theme=radical" style="width: 45%;">
-  </a>
-  <a href="https://github.com/anuragpras/not-by-gulzar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=not-by-gulzar&theme=radical" style="width: 45%;">
-  </a>
-  <a href="https://github.com/anuragpras/amazon-india-sales-dashboard-tableau">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=amazon-india-sales-dashboard-tableau&theme=radical" style="width: 45%;">
-  </a>
-  <a href="https://github.com/anuragpras/covid19-tableau">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=covid19-tableau&theme=radical" style="width: 45%;">
-  </a>
-  <a href="https://github.com/anuragpras/Task-Manager-MERN">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=Task-Manager-MERN&theme=radical" style="width: 45%;">
-  </a>
-  <a href="https://github.com/anuragpras/snake-game">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=snake-game&theme=radical" style="width: 45%;">
-  </a>
-  <a href="https://github.com/anuragpras/pomodoro-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=pomodoro-app&theme=radical" style="width: 45%;">
-  </a>
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Image Description Deep Learning](https://github.com/anuragpras/image-description-deep-learning) | Image Caption Generator using Flickr dataset | Jupyter Notebook |
+| [Forecasting Hotel Booking Cancellations](https://github.com/anuragpras/forecasting-hotel-booking-cancellations) | Forecasting room cancellations using historical booking data | Jupyter Notebook |
+| [Cafe Sales Analysis](https://github.com/anuragpras/cafe-sales-analysis) | Detailed cafe sales analysis for understanding sales patterns | Power BI, MySQL |
+| [Exploratory Data Analysis](https://github.com/anuragpras/exploratory-data-analysis) | E-Commerce Sales Insights: An Exploratory Data Analysis with Python | Jupyter Notebook |
+| [Pizza Sales Analysis](https://github.com/anuragpras/pizza-sales-analysis) | Analysis of pizza sales data | Data Analysis |
+| [Not By Gulzar](https://github.com/anuragpras/not-by-gulzar) | Poetry generation project | NLP |
+| [Amazon India Sales Dashboard](https://github.com/anuragpras/amazon-india-sales-dashboard-tableau) | Sales dashboard for Amazon India | Tableau |
+| [COVID-19 Dashboard](https://github.com/anuragpras/covid19-tableau) | COVID-19 data visualization | Tableau |
+| [Task Manager (MERN)](https://github.com/anuragpras/Task-Manager-MERN) | Task management application | MERN Stack |
+| [Snake Game](https://github.com/anuragpras/snake-game) | Classic Snake game implementation | Python |
+| [Pomodoro App](https://github.com/anuragpras/pomodoro-app) | Productivity timer application | Web Technologies |
+
 </div>
 
 ## Certifications
