@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=anuragpras&color=blue)
 
 ## About Me
-I am passionate about cloud computing and automation. Currently, I am learning STL in C++ and preparing for interviews by covering topics such as patterns, arrays, strings, and loops.
+Wokring
 
 ## Skills
 <p align="center">
@@ -19,11 +19,18 @@ I am passionate about cloud computing and automation. Currently, I am learning S
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-## Pinned Repositories
+## Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=image-description-deep-learning&theme=radical)](https://github.com/anuragpras/image-description-deep-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=forecasting-hotel-booking-cancellations&theme=radical)](https://github.com/anuragpras/forecasting-hotel-booking-cancellations)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=cafe-sales-analysis&theme=radical)](https://github.com/anuragpras/cafe-sales-analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=exploratory-data-analysis&theme=radical)](https://github.com/anuragpras/exploratory-data-analysis)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=pizza-sales-analysis&theme=radical)](https://github.com/anuragpras/pizza-sales-analysis)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=not-by-gulzar&theme=radical)](https://github.com/anuragpras/not-by-gulzar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=amazon-india-sales-dashboard-tableau&theme=radical)](https://github.com/anuragpras/amazon-india-sales-dashboard-tableau)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=covid19-tableau&theme=radical)](https://github.com/anuragpras/covid19-tableau)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=Task-Manager-MERN&theme=radical)](https://github.com/anuragpras/Task-Manager-MERN)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=snake-game&theme=radical)](https://github.com/anuragpras/snake-game)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=pomodoro-app&theme=radical)](https://github.com/anuragpras/pomodoro-app)
 
 ## Certifications
 - AWS Certified Cloud Practitioner (CLF-C02)  
