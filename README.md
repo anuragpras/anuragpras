@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=anuragpras&color=blue)
 
 ## About Me
-Wokring
+I am passionate about cloud computing and automation. Currently, I am learning STL in C++ and preparing for interviews by covering topics such as patterns, arrays, strings, and loops.
 
 ## Skills
 <p align="center">
@@ -20,17 +20,41 @@ Wokring
 </p>
 
 ## Projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=image-description-deep-learning&theme=radical)](https://github.com/anuragpras/image-description-deep-learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=forecasting-hotel-booking-cancellations&theme=radical)](https://github.com/anuragpras/forecasting-hotel-booking-cancellations)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=cafe-sales-analysis&theme=radical)](https://github.com/anuragpras/cafe-sales-analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=exploratory-data-analysis&theme=radical)](https://github.com/anuragpras/exploratory-data-analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=pizza-sales-analysis&theme=radical)](https://github.com/anuragpras/pizza-sales-analysis)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=not-by-gulzar&theme=radical)](https://github.com/anuragpras/not-by-gulzar)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=amazon-india-sales-dashboard-tableau&theme=radical)](https://github.com/anuragpras/amazon-india-sales-dashboard-tableau)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=covid19-tableau&theme=radical)](https://github.com/anuragpras/covid19-tableau)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=Task-Manager-MERN&theme=radical)](https://github.com/anuragpras/Task-Manager-MERN)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=snake-game&theme=radical)](https://github.com/anuragpras/snake-game)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=pomodoro-app&theme=radical)](https://github.com/anuragpras/pomodoro-app)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+  <a href="https://github.com/anuragpras/image-description-deep-learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=image-description-deep-learning&theme=radical" style="width: 45%;">
+  </a>
+  <a href="https://github.com/anuragpras/forecasting-hotel-booking-cancellations">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=forecasting-hotel-booking-cancellations&theme=radical" style="width: 45%;">
+  </a>
+  <a href="https://github.com/anuragpras/cafe-sales-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=cafe-sales-analysis&theme=radical" style="width: 45%;">
+  </a>
+  <a href="https://github.com/anuragpras/exploratory-data-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=exploratory-data-analysis&theme=radical" style="width: 45%;">
+  </a>
+  <a href="https://github.com/anuragpras/pizza-sales-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=pizza-sales-analysis&theme=radical" style="width: 45%;">
+  </a>
+  <a href="https://github.com/anuragpras/not-by-gulzar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=not-by-gulzar&theme=radical" style="width: 45%;">
+  </a>
+  <a href="https://github.com/anuragpras/amazon-india-sales-dashboard-tableau">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=amazon-india-sales-dashboard-tableau&theme=radical" style="width: 45%;">
+  </a>
+  <a href="https://github.com/anuragpras/covid19-tableau">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=covid19-tableau&theme=radical" style="width: 45%;">
+  </a>
+  <a href="https://github.com/anuragpras/Task-Manager-MERN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=Task-Manager-MERN&theme=radical" style="width: 45%;">
+  </a>
+  <a href="https://github.com/anuragpras/snake-game">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=snake-game&theme=radical" style="width: 45%;">
+  </a>
+  <a href="https://github.com/anuragpras/pomodoro-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragpras&repo=pomodoro-app&theme=radical" style="width: 45%;">
+  </a>
+</div>
 
 ## Certifications
 - AWS Certified Cloud Practitioner (CLF-C02)  
