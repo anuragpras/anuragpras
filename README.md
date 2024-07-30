@@ -13,8 +13,6 @@
 ## 🚀 About Me
 I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring the intersections of technology and innovation. My interests span across various domains of computer science, with a particular focus on data science, machine learning, cloud computing, and software development.
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 - 🎓 CS Undergrad at VIT Bhopal
 - 💡 Interested in Data Science, Machine Learning, Cloud Computing, and Software Development
 - 🔭 Always looking to learn and apply new technologies
@@ -40,70 +38,66 @@ I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring t
 
 <table align="center">
   <tr>
-    <td align="center">
-      <a href="https://github.com/anuragpras/image-description-deep-learning">
-        <img src="/api/placeholder/300/200" width="300" height="200"/>
-        <br />
-        <sub><b>Image Caption Generator</b></sub>
-      </a>
-      <br />
-      <sub>Deep Learning, NLP</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuragpras/forecasting-hotel-booking-cancellations">
-        <img src="/api/placeholder/300/200" width="300" height="200"/>
-        <br />
-        <sub><b>Hotel Booking Forecasting</b></sub>
-      </a>
-      <br />
-      <sub>Data Science, ML</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuragpras/cafe-sales-analysis">
-        <img src="/api/placeholder/300/200" width="300" height="200"/>
-        <br />
-        <sub><b>Cafe Sales Analysis</b></sub>
-      </a>
-      <br />
-      <sub>Data Analysis, Visualization</sub>
-    </td>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/anuragpras/exploratory-data-analysis">
-        <img src="/api/placeholder/300/200" width="300" height="200"/>
-        <br />
-        <sub><b>E-Commerce Data Analysis</b></sub>
-      </a>
-      <br />
-      <sub>EDA, Python</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuragpras/Task-Manager-MERN">
-        <img src="/api/placeholder/300/200" width="300" height="200"/>
-        <br />
-        <sub><b>Task Manager</b></sub>
-      </a>
-      <br />
-      <sub>MERN Stack</sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/anuragpras/not-by-gulzar">
-        <img src="/api/placeholder/300/200" width="300" height="200"/>
-        <br />
-        <sub><b>Poetry Generation (NLP)</b></sub>
-      </a>
-      <br />
-      <sub>NLP, Machine Learning</sub>
-    </td>
+    <td><a href="https://github.com/anuragpras/image-description-deep-learning">Image Caption Generator</a></td>
+    <td>Image Caption Generator using Flickr dataset</td>
+    <td>Deep Learning, NLP</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anuragpras/forecasting-hotel-booking-cancellations">Hotel Booking Forecasting</a></td>
+    <td>Forecasting room cancellations using historical booking data</td>
+    <td>Data Science, ML</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anuragpras/cafe-sales-analysis">Cafe Sales Analysis</a></td>
+    <td>Detailed cafe sales analysis for understanding sales patterns</td>
+    <td>Power BI, MySQL</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anuragpras/exploratory-data-analysis">E-Commerce Data Analysis</a></td>
+    <td>E-Commerce Sales Insights: An Exploratory Data Analysis with Python</td>
+    <td>Python, EDA</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anuragpras/pizza-sales-analysis">Pizza Sales Analysis</a></td>
+    <td>Analysis of pizza sales data</td>
+    <td>Data Analysis</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anuragpras/not-by-gulzar">Poetry Generation (NLP)</a></td>
+    <td>Poetry generation project using Natural Language Processing</td>
+    <td>NLP, Machine Learning</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anuragpras/amazon-india-sales-dashboard-tableau">Amazon India Sales Dashboard</a></td>
+    <td>Sales dashboard for Amazon India</td>
+    <td>Tableau</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anuragpras/covid19-tableau">COVID-19 Dashboard</a></td>
+    <td>COVID-19 data visualization</td>
+    <td>Tableau</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anuragpras/Task-Manager-MERN">Task Manager (MERN)</a></td>
+    <td>Task management application</td>
+    <td>MERN Stack</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anuragpras/snake-game">Snake Game</a></td>
+    <td>Classic Snake game implementation</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/anuragpras/pomodoro-app">Pomodoro App</a></td>
+    <td>Productivity timer application</td>
+    <td>Web Technologies</td>
   </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/anuragpras?tab=repositories">
-    <img src="https://img.shields.io/badge/-More%20Projects-green?style=for-the-badge" alt="More Projects">
-  </a>
-</p>
 
 ## 🏆 Certifications
 - 🏅 AWS Certified Cloud Practitioner (CLF-C02)
