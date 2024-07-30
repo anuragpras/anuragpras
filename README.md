@@ -23,19 +23,6 @@ I am passionate about cloud computing and automation. Currently, I am learning S
 - [Cafe Sales Analysis using Power BI and MySQL](https://github.com/anuragpras/cafe-sales-analysis) | [YouTube](https://www.youtube.com/watch?v=Klss0Kpnwow)
 - [Pizza Sales Analytics: MySQL and Excel Insights](https://github.com/anuragpras/pizza-sales-analysis) | [YouTube](https://www.youtube.com/watch?v=PBK7BjVYh4g) | [Docs](https://shorturl.at/WgYjH)
 
-## Education
-- **Vellore Institute of Technology, Bhopal**  
-  B.Tech in Computer Science (2021-2025)  
-  GPA: 88.0%
-
-- **Rukhmani Devi Public School, Bhopal**  
-  Class XII (2020)  
-  Percentage: 79.4%
-
-- **Holy Family Convent Sr. Sec. School, Bhopal**  
-  Class X (2018)  
-  Percentage: 84.6%
-
 ## Certifications
 - AWS Certified Cloud Practitioner (CLF-C02)  
 - Microsoft Certified Azure Administrator (AZ-104)  
