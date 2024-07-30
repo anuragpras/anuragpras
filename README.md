@@ -1,13 +1,4 @@
-<h1 align="center">
-  <pre>
-   █████╗ ███╗   ██╗██╗   ██╗██████╗  █████╗  ██████╗     ██████╗ ██████╗  █████╗ ███████╗ █████╗ ██████╗ 
-  ██╔══██╗████╗  ██║██║   ██║██╔══██╗██╔══██╗██╔════╝     ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗
-  ███████║██╔██╗ ██║██║   ██║██████╔╝███████║██║  ███╗    ██████╔╝██████╔╝███████║███████╗███████║██║  ██║
-  ██╔══██║██║╚██╗██║██║   ██║██╔══██╗██╔══██║██║   ██║    ██╔═══╝ ██╔══██╗██╔══██║╚════██║██╔══██║██║  ██║
-  ██║  ██║██║ ╚████║╚██████╔╝██║  ██║██║  ██║╚██████╔╝    ██║     ██║  ██║██║  ██║███████║██║  ██║██████╔╝
-  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ 
-  </pre>
-</h1>
+<h1 align="center">Hi there, I'm Anurag Prasad 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=CS+Undergrad+at+VIT+Bhopal;Data+Science+Enthusiast;Cloud+Computing+Aficionado;Software+Developer+in+Making&center=true&width=380&height=45">
@@ -19,32 +10,17 @@
   <img src="https://img.shields.io/github/stars/anuragpras?label=Stars" alt="Stars">
 </p>
 
-<h2 align="center">🚀 About Me</h2>
-
-<p align="center">
+## 🚀 About Me
 I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring the intersections of technology and innovation. My interests span across various domains of computer science, with a particular focus on data science, machine learning, cloud computing, and software development.
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-CS%20Undergrad-blue?style=for-the-badge" alt="CS Undergrad">
-  <img src="https://img.shields.io/badge/-Data%20Science-orange?style=for-the-badge" alt="Data Science">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-green?style=for-the-badge" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/-Cloud%20Computing-lightblue?style=for-the-badge" alt="Cloud Computing">
-  <img src="https://img.shields.io/badge/-Software%20Development-red?style=for-the-badge" alt="Software Development">
-</p>
-
-<details>
-<summary>📌 More About Me</summary>
-<br>
-  
+- 🎓 CS Undergrad at VIT Bhopal
+- 💡 Interested in Data Science, Machine Learning, Cloud Computing, and Software Development
 - 🔭 Always looking to learn and apply new technologies
 - 👯 Open to collaborating on innovative projects
 - 💬 Ask me about my latest projects and tech explorations
 - ⚡ Fun fact: I love to experiment with new programming languages in my free time!
-</details>
 
-<h2 align="center">🛠️ Skills</h2>
-
+## 🛠️ Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
@@ -58,7 +34,7 @@ I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring t
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-<h2 align="center">📊 Projects</h2>
+## 📊 Projects
 
 <table align="center">
   <tr>
@@ -93,8 +69,8 @@ I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring t
   </tr>
   <tr>
     <td><a href="https://github.com/anuragpras/not-by-gulzar">Poetry Generation (NLP)</a></td>
-    <td>Poetry generation project using Natural Language Processing</td>
-    <td>NLP, Machine Learning</td>
+    <td>Poetry like Gulzar</td>
+    <td>English & Hindi</td>
   </tr>
   <tr>
     <td><a href="https://github.com/anuragpras/amazon-india-sales-dashboard-tableau">Amazon India Sales Dashboard</a></td>
@@ -123,46 +99,28 @@ I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring t
   </tr>
 </table>
 
-<h2 align="center">🏆 Achievements</h2>
-
-<details>
-<summary>Certifications 🎓</summary>
-<br>
-  
+## 🏆 Certifications
 - 🏅 AWS Certified Cloud Practitioner (CLF-C02)
 - 🏅 Microsoft Certified Azure Administrator (AZ-104)
 - 🏅 Introduction to Internet of Things (NPTEL)
 - 🏅 The Bits & Bytes of Computer Networking (Coursera)
-</details>
 
-<details>
-<summary>Relevant Coursework 📚</summary>
-<br>
-  
+## 📚 Relevant Coursework
 - 💻 Computer Networks
 - 🖥️ Operating Systems
 - 🚀 High Performance Computing
 - 🧮 Data Structures and Algorithms
 - 📊 Foundations of Data Science
-</details>
 
-<details>
-<summary>Extracurricular Activities 🌟</summary>
-<br>
-  
+## 🌟 Extracurricular Activities
 - 🩸 **NSS Club**: Core Team Member | Organized Blood Donation Camp
 - 💻 **CodingBlocks(BitbyBit) Club**: Member | Content Writer for Social Media
-</details>
 
-<h2 align="center">🌐 Languages</h2>
+## 🌐 Languages
+- 🇮🇳 Hindi (Native)
+- 🇬🇧 English (Fluent)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Hindi-Native-green?style=for-the-badge" alt="Hindi">
-  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge" alt="English">
-</p>
-
-<h2 align="center">🤝 Connect with Me</h2>
-
+## 🤝 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/anuragpras/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -178,8 +136,7 @@ I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring t
   </a>
 </p>
 
-<h2 align="center">📈 GitHub Stats</h2>
-
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anuragpras&show_icons=true&theme=radical" alt="Anurag's GitHub Stats">
 </p>
@@ -188,8 +145,7 @@ I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring t
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpras&theme=radical" alt="Anurag's GitHub Streak">
 </p>
 
-<h2 align="center">🔝 Top Languages</h2>
-
+## 🔝 Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpras&layout=compact&theme=radical" alt="Top Languages">
 </p>
