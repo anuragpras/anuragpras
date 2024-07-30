@@ -69,8 +69,8 @@ I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring t
   </tr>
   <tr>
     <td><a href="https://github.com/anuragpras/not-by-gulzar">Poetry Generation (NLP)</a></td>
-    <td>Poetry generation project using Natural Language Processing</td>
-    <td>NLP, Machine Learning</td>
+    <td>Poetry like Gulzar</td>
+    <td>English & Hindi</td>
   </tr>
   <tr>
     <td><a href="https://github.com/anuragpras/amazon-india-sales-dashboard-tableau">Amazon India Sales Dashboard</a></td>
