@@ -70,7 +70,7 @@ I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring t
   <tr>
     <td><a href="https://github.com/anuragpras/not-by-gulzar">Poetry Generation (NLP)</a></td>
     <td>Poetry like Gulzar</td>
-    <td>English & Hindi</td>
+    <td>Two cups of chai, one antique typewriter</td>
   </tr>
   <tr>
     <td><a href="https://github.com/anuragpras/amazon-india-sales-dashboard-tableau">Amazon India Sales Dashboard</a></td>
@@ -95,7 +95,7 @@ I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring t
   <tr>
     <td><a href="https://github.com/anuragpras/pomodoro-app">Pomodoro App</a></td>
     <td>Productivity timer application</td>
-    <td>Web Technologies</td>
+    <td>Streamlit & Python </td>
   </tr>
 </table>
 
