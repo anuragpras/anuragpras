@@ -18,7 +18,6 @@ I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring t
 - 🔭 Always looking to learn and apply new technologies
 - 👯 Open to collaborating on innovative projects
 - 💬 Ask me about my latest projects and tech explorations
-- ⚡ Fun fact: I love to experiment with new programming languages in my free time!
 
 ## 🛠️ Skills
 <p align="center">
