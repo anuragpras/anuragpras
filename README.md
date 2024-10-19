@@ -149,6 +149,11 @@ I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring t
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpras&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
+## 🐍 GitHub Contribution Snake
+<p align="center">
+  <img src="https://github.com/anuragpras/anuragpras/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
 <h3 align="center">Thanks for visiting! 😊</h3>
 
 <p align="center">
