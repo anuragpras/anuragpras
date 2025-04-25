@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anurag Prasad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Business+Consulting;Cloud+Computing+Aficionado&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Business+Consulting;Cloud+Computing&center=true&width=380&height=45">
 </p>
 
 <p align="center">
