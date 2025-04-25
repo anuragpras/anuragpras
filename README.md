@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anurag Prasad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=CS+Undergrad+at+VIT+Bhopal;Data+Science+Enthusiast;Cloud+Computing+Aficionado;Software+Developer+in+Making&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+at+Infinity+Analytics+Consulting;Data+Science+Enthusiast;Cloud+Computing+Aficionado;Software+Developer&center=true&width=380&height=45">
 </p>
 
 <p align="center">
@@ -11,13 +11,18 @@
 </p>
 
 ## 🚀 About Me
-I'm a Computer Science undergraduate at VIT Bhopal, passionate about exploring the intersections of technology and innovation. My interests span across various domains of computer science, with a particular focus on data science, machine learning, cloud computing, and software development.
+I'm a Data Scientist at Infinity Analytics Consulting with a Computer Science degree from VIT Bhopal. I'm passionate about exploring the intersections of technology and innovation. My interests span across various domains of computer science, with a particular focus on data science, machine learning, cloud computing, and software development.
 
-- 🎓 CS Undergrad at VIT Bhopal
-- 💡 Interested in Data Science, Machine Learning, Cloud Computing, and Software Development
+- 💼 Data Scientist at Infinity Analytics Consulting
+- 🎓 CS Graduate from VIT Bhopal (2025)
+- 💡 Specialized in Data Science, Machine Learning, Cloud Computing, and Software Development
 - 🔭 Always looking to learn and apply new technologies
 - 👯 Open to collaborating on innovative projects
 - 💬 Ask me about my latest projects and tech explorations
+
+## 💼 Experience
+- **Data Scientist** at Infinity Analytics Consulting (Jun 2025 - Present)
+- **Data Science Intern** at Infinity Analytics Consulting (Nov 2024 - May 2025)
 
 ## 🛠️ Skills
 <p align="center">
