@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Anurag Prasad 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+at+Infinity+Analytics+Consulting;Data+Science+Enthusiast;Cloud+Computing+Aficionado;Software+Developer&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+at+Infinity+Analytics+Consulting;Cloud+Computing+Aficionado&center=true&width=380&height=45">
 </p>
 
 <p align="center">
@@ -11,11 +11,13 @@
 </p>
 
 ## 🚀 About Me
-I'm a Data Scientist at Infinity Analytics Consulting with a Computer Science degree from VIT Bhopal. I'm passionate about exploring the intersections of technology and innovation. My interests span across various domains of computer science, with a particular focus on data science, machine learning, cloud computing, and software development.
+I'm a Data Scientist at Infinity Analytics Consulting with a Computer Science degree from VIT Bhopal. I'm passionate about exploring the intersections of technology and innovation. My interests span across various domains of computer science, with a particular focus on data science, machine learning, and cloud computing.
+
+I have worked with businesses like AstroYogi to help them scale using data and business analytics. I specialize in propensity modeling, optimizing marketing channels using ML, analyzing what business functions can be improved by looking at the data, and how businesses can be scaled and improved with costs optimized for efficient longevity.
 
 - 💼 Data Scientist at Infinity Analytics Consulting
 - 🎓 CS Graduate from VIT Bhopal (2025)
-- 💡 Specialized in Data Science, Machine Learning, Cloud Computing, and Software Development
+- 💡 Specialized in Data Science, Machine Learning, and Cloud Computing
 - 🔭 Always looking to learn and apply new technologies
 - 👯 Open to collaborating on innovative projects
 - 💬 Ask me about my latest projects and tech explorations
