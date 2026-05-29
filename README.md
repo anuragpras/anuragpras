@@ -1,4 +1,4 @@
-```md
+md
 <h1 align="center">Anurag Prasad</h1>
 
 <p align="center">
@@ -186,4 +186,4 @@ Machine Learning • Analytics Engineering • Data Products • Business Intell
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
 </p>
-```
+
