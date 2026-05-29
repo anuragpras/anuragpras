@@ -44,7 +44,7 @@ I have partnered with companies including [Astroyogi](https://www.astroyogi.com)
 |---|---|
 | **Current Role** | Data Scientist, Infinity Analytics Consulting |
 | **Education** | B.Tech Computer Science, VIT Bhopal (2025) |
-| **Works With** | C-suite, Growth, Product, Operations, Marketing leadership |
+| **Works In** | Tech, Growth, Product, Operations, Marketing |
 | **Open To** | Analytics consulting, ML product collaborations |
 
 ---
