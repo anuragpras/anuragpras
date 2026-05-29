@@ -1,46 +1,68 @@
 <h1 align="center">Anurag Prasad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&lines=Data+Scientist;Business+%26+Growth+Analytics;Machine+Learning+Engineer;Analytics+Engineering&center=true&width=420&height=45">
+  <b>Data Scientist &nbsp;·&nbsp; Business Analytics &nbsp;·&nbsp; Machine Learning &nbsp;·&nbsp; Growth & Marketing Optimization</b>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anuragpras&color=blueviolet" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=anuragpras&color=6e40c9&style=flat-square" alt="Profile Views">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/anuragpras?label=Followers&style=flat-square" alt="Followers">
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/anuragpras?label=Stars&style=flat-square" alt="Stars">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anuragpras/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/anuragpras?label=Followers" alt="Followers">
+  <a href="https://github.com/anuragpras">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/anuragpras?label=Stars" alt="Stars">
+  <a href="https://anuragpras.github.io/portfolio-alt/">
+    <img src="https://img.shields.io/badge/Portfolio-5C5CFF?style=flat-square&logoColor=white">
+  </a>
+  &nbsp;
+  <a href="mailto:ianuragprasad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 ---
 
 ## About
 
-Data Scientist at **Infinity Analytics Consulting**, working across **business analytics, machine learning, and reporting systems**. I work directly with business leadership — translating strategic priorities into dashboards, predictive models, and data infrastructure that drive decisions.
+Data Scientist at **Infinity Analytics Consulting**, working directly with **executives and leadership across technology, growth, product, and operations** — translating business priorities into analytical systems that drive measurable outcomes.
 
-I have worked with companies like [Astroyogi](https://www.astroyogi.com), [TONA Activewear](https://www.tonaactive.com), [Agrim](https://agrim.app), [LetzRyd](https://letzryd.com), [Interviewer.AI](https://interviewer.ai), and [PeopleVerse](https://www.peopleverse.in) — helping them scale through **propensity modeling, CRM targeting, marketing channel optimization, and executive analytics**.
+My work spans **business & data analytics** for executive decision-making, **ML-driven monetization and retention modeling**, and **data-led optimization of growth, marketing channels, and CRM** — from strategy through to production pipelines.
 
-- **Role:** Data Scientist, Infinity Analytics Consulting
-- **Education:** B.Tech Computer Science, VIT Bhopal (2025)
-- **Focus:** Business analytics, ML-driven growth, analytics engineering
-- **Open to:** Collaborations on data science and analytics products
+I have partnered with companies including [Astroyogi](https://www.astroyogi.com), [TONA Activewear](https://www.tonaactive.com), [Agrim](https://agrim.app), [LetzRyd](https://letzryd.com), [Interviewer.AI](https://interviewer.ai), and [PeopleVerse](https://www.peopleverse.in) to deliver analytics that directly informed leadership decisions on growth, retention, and operational efficiency.
+
+| | |
+|---|---|
+| **Current Role** | Data Scientist, Infinity Analytics Consulting |
+| **Education** | B.Tech Computer Science, VIT Bhopal (2025) |
+| **Works With** | C-suite, Growth, Product, Operations, Marketing leadership |
+| **Open To** | Analytics consulting, ML product collaborations |
 
 ---
 
 ## Experience
 
-**Data Scientist** — Infinity Analytics Consulting · Jun 2025 – Present
+**Data Scientist** — Infinity Analytics Consulting &nbsp;·&nbsp; Jun 2025 – Present
 
-- Built ML models for **customer acquisition, retention, churn prediction, and monetization**.
-- Developed **executive dashboards and reporting systems** used directly by business and marketing leadership.
-- Designed automated ETL workflows and analytics pipelines across client verticals.
-- Served as primary analytical point of contact for **leadership-facing data strategy**.
+- Built analytics and reporting systems used directly by **C-suite and business leadership** for strategic decision-making across growth, product, and operations.
+- Developed **ML models for customer acquisition, retention, churn prediction, and monetization** deployed across multiple client verticals.
+- Designed **marketing channel optimization and CRM targeting frameworks** using propensity scoring and incrementality analysis.
+- Automated ETL workflows, data pipelines, and executive-facing dashboards end-to-end.
 
-**Data Science Intern** — Infinity Analytics Consulting · Nov 2024 – May 2025
+**Data Science Intern** — Infinity Analytics Consulting &nbsp;·&nbsp; Nov 2024 – May 2025
 
-- Delivered client-facing analytics and ML projects across multiple industry verticals.
+- Delivered client-facing analytics and machine learning projects across multiple industry verticals.
 - Built dashboards, automated reports, and data workflows for business and product teams.
-- Contributed to **business intelligence and A/B experimentation infrastructure**.
+- Contributed to **business intelligence infrastructure and A/B experimentation systems**.
 
 ---
 
@@ -49,15 +71,15 @@ I have worked with companies like [Astroyogi](https://www.astroyogi.com), [TONA 
 <p align="center">
   <a href="https://www.astroyogi.com"><img src="https://img.shields.io/badge/Astroyogi-4B0082?style=for-the-badge&logoColor=white"></a>
   &nbsp;
-  <a href="https://www.tonaactive.com"><img src="https://img.shields.io/badge/TONA%20Activewear-000000?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.tonaactive.com"><img src="https://img.shields.io/badge/TONA%20Activewear-111111?style=for-the-badge&logoColor=white"></a>
   &nbsp;
   <a href="https://agrim.app"><img src="https://img.shields.io/badge/Agrim-1A7F4B?style=for-the-badge&logoColor=white"></a>
   &nbsp;
-  <a href="https://letzryd.com"><img src="https://img.shields.io/badge/LetzRyd-E84545?style=for-the-badge&logoColor=white"></a>
+  <a href="https://letzryd.com"><img src="https://img.shields.io/badge/LetzRyd-C0392B?style=for-the-badge&logoColor=white"></a>
   &nbsp;
   <a href="https://interviewer.ai"><img src="https://img.shields.io/badge/Interviewer.AI-0057FF?style=for-the-badge&logoColor=white"></a>
   &nbsp;
-  <a href="https://www.peopleverse.in"><img src="https://img.shields.io/badge/PeopleVerse-FF6B35?style=for-the-badge&logoColor=white"></a>
+  <a href="https://www.peopleverse.in"><img src="https://img.shields.io/badge/PeopleVerse-E67E22?style=for-the-badge&logoColor=white"></a>
 </p>
 
 ---
@@ -67,19 +89,19 @@ I have worked with companies like [Astroyogi](https://www.astroyogi.com), [TONA 
 <table align="center">
   <tr>
     <td><b>Business & Data Analytics</b></td>
-    <td>Executive dashboards, revenue tracking, KPI frameworks, leadership reporting, growth and product analytics</td>
+    <td>Executive dashboards, revenue and KPI tracking, leadership reporting, product and growth analytics</td>
   </tr>
   <tr>
-    <td><b>Machine Learning</b></td>
-    <td>Churn prediction, propensity modeling, recharge prediction, high-value user identification</td>
+    <td><b>Machine Learning & Modeling</b></td>
+    <td>Churn prediction, propensity modeling, recharge prediction, high-value user identification, segmentation</td>
+  </tr>
+  <tr>
+    <td><b>Growth & Marketing Optimization</b></td>
+    <td>CRM targeting, campaign optimization, incrementality analysis, marketing attribution, channel performance</td>
   </tr>
   <tr>
     <td><b>Analytics Engineering</b></td>
-    <td>ETL pipelines, reporting automation, Google Sheets workflows, SQL-based business logic</td>
-  </tr>
-  <tr>
-    <td><b>Growth Analytics</b></td>
-    <td>CRM optimization, campaign targeting, incrementality analysis, user segmentation</td>
+    <td>ETL pipelines, reporting automation, Google Sheets workflows, API integrations, SQL-based business logic</td>
   </tr>
 </table>
 
@@ -190,16 +212,16 @@ I have worked with companies like [Astroyogi](https://www.astroyogi.com), [TONA 
 ## Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-CLF--C02-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner%20–%20CLF--C02-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft%20Azure%20Administrator-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20Administrator%20–%20AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Introduction%20to%20IoT-NPTEL-FF6F00?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Introduction%20to%20IoT%20–%20NPTEL-FF6F00?style=for-the-badge&logoColor=white">
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Bits%20%26%20Bytes%20of%20Computer%20Networking-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white">
+  <img src="https://img.shields.io/badge/Bits%20%26%20Bytes%20of%20Computer%20Networking%20–%20Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white">
 </p>
 
 ---
@@ -214,28 +236,8 @@ I have worked with companies like [Astroyogi](https://www.astroyogi.com), [TONA 
 
 ---
 
-## Connect
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/anuragpras/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://github.com/anuragpras">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="https://anuragpras.github.io/portfolio-alt/">
-    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logoColor=white">
-  </a>
-  &nbsp;
-  <a href="mailto:ianuragprasad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
-  Open to discussions on business analytics, machine learning, analytics engineering, and data products.
+  Open to discussions on business analytics, machine learning, growth strategy, and data products.
 </p>
 
 <p align="center">
