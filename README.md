@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   </a>
   &nbsp;
-  <a href="https://anuragpras.github.io/portfolio-alt/">
+  <a href="https://aanurag.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-5C5CFF?style=flat-square&logoColor=white">
   </a>
   &nbsp;
