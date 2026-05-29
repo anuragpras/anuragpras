@@ -1,7 +1,7 @@
 <h1 align="center">Anurag Prasad</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist;Business+%26+Growth+Analytics;Machine+Learning+Engineer;Analytics+Engineering&center=true&width=420&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Georgia&lines=Data+Scientist;Business+%26+Growth+Analytics;Machine+Learning+Engineer;Analytics+Engineering&center=true&width=420&height=45">
 </p>
 
 <p align="center">
@@ -16,9 +16,9 @@
 
 ## About
 
-Data Scientist at **Infinity Analytics Consulting**, working across business analytics, machine learning, and reporting systems. I work directly with business leadership — translating strategic priorities into dashboards, predictive models, and data infrastructure that drive decisions.
+Data Scientist at **Infinity Analytics Consulting**, working across **business analytics, machine learning, and reporting systems**. I work directly with business leadership — translating strategic priorities into dashboards, predictive models, and data infrastructure that drive decisions.
 
-I have worked with companies like [Astroyogi](https://www.astroyogi.com), [TONA Activewear](https://www.tonaactive.com), [Interviewer.AI](https://interviewer.ai), and others — helping them scale through propensity modeling, CRM targeting, marketing channel optimization, and executive analytics.
+I have worked with companies like [Astroyogi](https://www.astroyogi.com), [TONA Activewear](https://www.tonaactive.com), [Agrim](https://agrim.app), [LetzRyd](https://letzryd.com), [Interviewer.AI](https://interviewer.ai), and [PeopleVerse](https://www.peopleverse.in) — helping them scale through **propensity modeling, CRM targeting, marketing channel optimization, and executive analytics**.
 
 - **Role:** Data Scientist, Infinity Analytics Consulting
 - **Education:** B.Tech Computer Science, VIT Bhopal (2025)
@@ -30,32 +30,34 @@ I have worked with companies like [Astroyogi](https://www.astroyogi.com), [TONA 
 ## Experience
 
 **Data Scientist** — Infinity Analytics Consulting · Jun 2025 – Present
-- Built ML models for customer acquisition, retention, churn prediction, and monetization.
-- Developed executive dashboards and reporting systems used directly by business and marketing leadership.
+
+- Built ML models for **customer acquisition, retention, churn prediction, and monetization**.
+- Developed **executive dashboards and reporting systems** used directly by business and marketing leadership.
 - Designed automated ETL workflows and analytics pipelines across client verticals.
-- Served as primary analytical point of contact for leadership-facing data strategy.
+- Served as primary analytical point of contact for **leadership-facing data strategy**.
 
 **Data Science Intern** — Infinity Analytics Consulting · Nov 2024 – May 2025
+
 - Delivered client-facing analytics and ML projects across multiple industry verticals.
 - Built dashboards, automated reports, and data workflows for business and product teams.
-- Contributed to business intelligence and A/B experimentation infrastructure.
+- Contributed to **business intelligence and A/B experimentation infrastructure**.
 
 ---
 
 ## Companies & Products Worked With
 
 <p align="center">
-  <a href="https://www.astroyogi.com"><img src="https://img.shields.io/badge/Astroyogi-4B0082?style=for-the-badge&logoColor=white" alt="Astroyogi"></a>
+  <a href="https://www.astroyogi.com"><img src="https://img.shields.io/badge/Astroyogi-4B0082?style=for-the-badge&logoColor=white"></a>
   &nbsp;
-  <a href="https://www.tonaactive.com"><img src="https://img.shields.io/badge/TONA%20Activewear-000000?style=for-the-badge&logoColor=white" alt="TONA Activewear"></a>
+  <a href="https://www.tonaactive.com"><img src="https://img.shields.io/badge/TONA%20Activewear-000000?style=for-the-badge&logoColor=white"></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Agrim-1A7F4B?style=for-the-badge&logoColor=white" alt="Agrim">
+  <a href="https://agrim.app"><img src="https://img.shields.io/badge/Agrim-1A7F4B?style=for-the-badge&logoColor=white"></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/LetzRyd-E84545?style=for-the-badge&logoColor=white" alt="LetzRyd">
+  <a href="https://letzryd.com"><img src="https://img.shields.io/badge/LetzRyd-E84545?style=for-the-badge&logoColor=white"></a>
   &nbsp;
-  <a href="https://interviewer.ai"><img src="https://img.shields.io/badge/Interviewer.AI-0057FF?style=for-the-badge&logoColor=white" alt="Interviewer.AI"></a>
+  <a href="https://interviewer.ai"><img src="https://img.shields.io/badge/Interviewer.AI-0057FF?style=for-the-badge&logoColor=white"></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/PeopleVerse%20India-FF6B35?style=for-the-badge&logoColor=white" alt="PeopleVerse India">
+  <a href="https://www.peopleverse.in"><img src="https://img.shields.io/badge/PeopleVerse-FF6B35?style=for-the-badge&logoColor=white"></a>
 </p>
 
 ---
@@ -80,36 +82,6 @@ I have worked with companies like [Astroyogi](https://www.astroyogi.com), [TONA 
     <td>CRM optimization, campaign targeting, incrementality analysis, user segmentation</td>
   </tr>
 </table>
-
----
-
-## Technical Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</p>
 
 ---
 
@@ -185,34 +157,59 @@ I have worked with companies like [Astroyogi](https://www.astroyogi.com), [TONA 
 
 ---
 
+## Technical Skills
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+---
+
 ## Certifications
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-CLF--C02-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-  <img src="https://img.shields.io/badge/Azure%20Administrator-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <img src="https://img.shields.io/badge/IoT%20Fundamentals-NPTEL-FF6F00?style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/Computer%20Networking-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-CLF--C02-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure%20Administrator-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Introduction%20to%20IoT-NPTEL-FF6F00?style=for-the-badge&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Bits%20%26%20Bytes%20of%20Computer%20Networking-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white">
 </p>
 
 ---
 
 ## Education
 
-**Vellore Institute of Technology, Bhopal**
-B.Tech — Computer Science Engineering · 2021 – 2025
-
----
-
-## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragpras&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragpras&theme=radical" alt="GitHub Streak">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragpras&layout=compact&theme=radical" alt="Top Languages">
+  <b>Vellore Institute of Technology, Bhopal</b>
+  <br>Bachelor of Technology — Computer Science Engineering
+  <br>2021 – 2025
 </p>
 
 ---
