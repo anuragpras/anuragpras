@@ -18,11 +18,11 @@
   </a>
   &nbsp;
   <a href="https://github.com/anuragpras">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   </a>
   &nbsp;
   <a href="https://aanurag.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-5C5CFF?style=flat-square&logoColor=white">
+     <img src="https://img.shields.io/badge/Portfolio-5C5CFF?style=flat-square&logoColor=white">
   </a>
   &nbsp;
   <a href="mailto:ianuragprasad@gmail.com">
