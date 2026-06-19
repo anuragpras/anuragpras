@@ -34,11 +34,11 @@
 
 ## About
 
-Data Scientist at **Infinity Analytics Consulting**, working directly with **executives and leadership across technology, growth, product, and operations** — translating business priorities into analytical systems that drive measurable outcomes.
+Data Scientist at **Infinity Analytics Consulting**, based in Bhopal, India. I hold a B.Tech in Computer Science Engineering from Vellore Institute of Technology, Bhopal.
 
-My work spans **business & data analytics** for executive decision-making, **ML-driven monetization and retention modeling**, and **data-led optimization of growth, marketing channels, and CRM** — from strategy through to production pipelines.
+My work spans **data science, analytics, predictive modeling, machine learning, and A/B experimentation**, with a focus on customer behavior, product analytics, growth, marketing effectiveness, business planning, and financial modeling.
 
-I have partnered with companies including [Astroyogi](https://www.astroyogi.com), [TONA Activewear](https://www.tonaactive.com), [Agrim](https://agrim.app), [LetzRyd](https://letzryd.com), [Interviewer.AI](https://interviewer.ai), and [PeopleVerse](https://www.peopleverse.in) to deliver analytics that directly informed leadership decisions on growth, retention, and operational efficiency.
+I have worked with companies including [Astroyogi](https://www.astroyogi.com), [TONA Activewear](https://www.tonaactive.com), [Agrim](https://agrim.app), [LetzRyd](https://letzryd.com), [Interviewer.AI](https://interviewer.ai), and [PeopleVerse](https://www.peopleverse.in) across analytics, machine learning, and data engineering projects.
 
 | | |
 |---|---|
@@ -53,14 +53,14 @@ I have partnered with companies including [Astroyogi](https://www.astroyogi.com)
 
 **Data Scientist** — Infinity Analytics Consulting &nbsp;·&nbsp; Jun 2025 – Present
 
-- Built analytics and reporting systems used directly by **C-suite and business leadership** for strategic decision-making across growth, product, and operations.
-- Developed **ML models for customer acquisition, retention, churn prediction, and monetization** deployed across multiple client verticals.
-- Designed **marketing channel optimization and CRM targeting frameworks** using propensity scoring and incrementality analysis.
-- Automated ETL workflows, data pipelines, and executive-facing dashboards end-to-end.
+- Built analytics and reporting systems for business and leadership teams to support decision-making across growth, product, and operations.
+- Developed **ML models for customer acquisition, retention, churn prediction, and monetization** across multiple client verticals.
+- Designed **marketing channel optimization and CRM targeting systems** using propensity scoring and incrementality analysis.
+- Automated ETL workflows, data pipelines, and business dashboards end-to-end.
 
 **Data Science Intern** — Infinity Analytics Consulting &nbsp;·&nbsp; Nov 2024 – May 2025
 
-- Delivered client-facing analytics and machine learning projects across multiple industry verticals.
+- Delivered analytics and machine learning projects across multiple industry verticals.
 - Built dashboards, automated reports, and data workflows for business and product teams.
 - Contributed to **business intelligence infrastructure and A/B experimentation systems**.
 
@@ -237,7 +237,7 @@ I have partnered with companies including [Astroyogi](https://www.astroyogi.com)
 ---
 
 <p align="center">
-  Open to discussions on business analytics, machine learning, growth strategy, and data products.
+  Feel free to reach out about analytics, machine learning, or anything data.
 </p>
 
 <p align="center">
