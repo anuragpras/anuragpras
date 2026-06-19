@@ -40,24 +40,12 @@ My work spans across **data science, analytics, predictive modeling / machine le
 
 I work closely with stakeholders across marketing, product, operations, and technical teams to analyze, build solutions, and support product, marketing, and business decisions. I have worked with companies including [Astroyogi](https://www.astroyogi.com), [TONA Activewear](https://www.tonaactive.com), [Agrim](https://agrim.app), [LetzRyd](https://letzryd.com), [Interviewer.AI](https://interviewer.ai), and [PeopleVerse](https://www.peopleverse.in).
 
-<table align="left">
-  <tr>
-    <td><b>Current Role</b></td>
-    <td>Data Scientist, Infinyty Tech</td>
-  </tr>
-  <tr>
-    <td><b>Education</b></td>
-    <td>B.Tech Computer Science, VIT Bhopal (2025)</td>
-  </tr>
-  <tr>
-    <td><b>Works In</b></td>
-    <td>Tech, Growth, Product, Operations, Marketing</td>
-  </tr>
-  <tr>
-    <td><b>Open To</b></td>
-    <td>Data Science and Analytics, Product, Consulting, and Management Roles</td>
-  </tr>
-</table>
+| | |
+|---|---|
+| **Current Role** | Data Scientist, Infinyty Tech |
+| **Education** | B.Tech Computer Science, VIT Bhopal (2025) |
+| **Works In** | Tech, Growth, Product, Operations, Marketing |
+| **Open To** | Data Science and Analytics, Product, Consulting, and Management Roles |
 
 ---
 
