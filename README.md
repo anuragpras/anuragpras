@@ -237,7 +237,7 @@ I work closely with stakeholders across marketing, product, operations, and tech
 ---
 
 <p align="center">
-  Feel free to reach out about analytics, machine learning, or anything data.
+  Feel free to reach out about analytics, data science, or anything data.
 </p>
 
 <p align="center">
