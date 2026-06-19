@@ -45,7 +45,7 @@ I work closely with stakeholders across marketing, product, operations, and tech
 | **Current Role** | Data Scientist, Infinyty Tech |
 | **Education** | B.Tech Computer Science, VIT Bhopal (2025) |
 | **Works In** | Tech, Growth, Product, Operations, Marketing |
-| **Open To** | Analytics consulting, ML product collaborations |
+| **Open To** | Analytics, consulting, data sciences and product roles |
 
 ---
 
