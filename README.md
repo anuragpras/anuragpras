@@ -122,7 +122,7 @@ I work closely with stakeholders across marketing, product, operations, and tech
   </tr>
   <tr>
     <td><a href="https://github.com/anuragpras/High-Value-User-Propensity-Model"><b>High-Value User Propensity Model</b></a></td>
-    <td>Machine Learning</td>
+    <td>Predictive Modeling</td>
     <td>Predicts which newly acquired users are most likely to become high-value customers.</td>
   </tr>
   <tr>
@@ -157,7 +157,7 @@ I work closely with stakeholders across marketing, product, operations, and tech
   </tr>
   <tr>
     <td><a href="https://github.com/anuragpras/forecasting-hotel-booking-cancellations"><b>Hotel Booking Cancellation Forecasting</b></a></td>
-    <td>Machine Learning</td>
+    <td>Predictive Modeling</td>
     <td>Predictive model for forecasting hotel booking cancellations.</td>
   </tr>
   <tr>
