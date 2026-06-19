@@ -127,22 +127,22 @@ I work closely with stakeholders across marketing, product, operations, and tech
   </tr>
   <tr>
     <td><a href="https://github.com/anuragpras/Churn-Prediction-Model"><b>Churn Prediction Model</b></a></td>
-    <td>Machine Learning</td>
+    <td>Predictive Modeling</td>
     <td>Predicts churn risk across 30, 60, and 90-day horizons.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/anuragpras/first-purchase-propensity-model"><b>First Purchase Propensity Model</b></a></td>
-    <td>Machine Learning</td>
+    <td>Predictive Modeling</td>
     <td>Scores users by likelihood of completing their first transaction.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/anuragpras/customer-recharge-prediction"><b>Customer Recharge Prediction</b></a></td>
-    <td>Machine Learning</td>
+    <td>Predictive Modeling</td>
     <td>Predicts recharge probability using feature engineering, propensity scoring, and decile analysis.</td>
   </tr>
   <tr>
     <td><a href="https://github.com/anuragpras/future-recharge-prediction"><b>Future Recharge Prediction</b></a></td>
-    <td>Machine Learning</td>
+    <td>Predictive Modeling</td>
     <td>Forecasts future recharge behavior for retention and monetization campaigns.</td>
   </tr>
   <tr>
