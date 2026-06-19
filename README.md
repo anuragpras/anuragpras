@@ -34,15 +34,17 @@
 
 ## About
 
-Data Scientist at **Infinity Analytics Consulting**, based in Bhopal, India. I hold a B.Tech in Computer Science Engineering from Vellore Institute of Technology, Bhopal.
+I am a Data Scientist at **Infinyty Tech** (formerly Infinity Analytics Consulting) and am based in Bhopal, India. I hold a Bachelor's degree in Computer Science Engineering from Vellore Institute of Technology, Bhopal.
 
-My work spans **data science, analytics, predictive modeling, machine learning, and A/B experimentation**, with a focus on customer behavior, product analytics, growth, marketing effectiveness, business planning, and financial modeling.
+My work spans across **data science, analytics, predictive modeling / machine learning, AI applications and integration, and experimentation (A/B testing)**, with a focus on customer behavior, product analytics, growth, marketing effectiveness and optimization, business planning, and financial modeling.
 
-I have worked with companies including [Astroyogi](https://www.astroyogi.com), [TONA Activewear](https://www.tonaactive.com), [Agrim](https://agrim.app), [LetzRyd](https://letzryd.com), [Interviewer.AI](https://interviewer.ai), and [PeopleVerse](https://www.peopleverse.in) across analytics, machine learning, and data engineering projects.
+I work closely with stakeholders across marketing, product, operations, and technical teams to analyze, build solutions, and support product, marketing, and business decisions. I have worked with companies including [Astroyogi](https://www.astroyogi.com), [TONA Activewear](https://www.tonaactive.com), [Agrim](https://agrim.app), [LetzRyd](https://letzryd.com), [Interviewer.AI](https://interviewer.ai), and [PeopleVerse](https://www.peopleverse.in).
+
+Outside of work, I enjoy photography, listening to music, reading, and a good cup of chai.
 
 | | |
 |---|---|
-| **Current Role** | Data Scientist, Infinity Analytics Consulting |
+| **Current Role** | Data Scientist, Infinyty Tech |
 | **Education** | B.Tech Computer Science, VIT Bhopal (2025) |
 | **Works In** | Tech, Growth, Product, Operations, Marketing |
 | **Open To** | Analytics consulting, ML product collaborations |
@@ -51,14 +53,14 @@ I have worked with companies including [Astroyogi](https://www.astroyogi.com), [
 
 ## Experience
 
-**Data Scientist** — Infinity Analytics Consulting &nbsp;·&nbsp; Jun 2025 – Present
+**Data Scientist** — Infinyty Tech &nbsp;·&nbsp; Jun 2025 – Present
 
 - Built analytics and reporting systems for business and leadership teams to support decision-making across growth, product, and operations.
 - Developed **ML models for customer acquisition, retention, churn prediction, and monetization** across multiple client verticals.
 - Designed **marketing channel optimization and CRM targeting systems** using propensity scoring and incrementality analysis.
 - Automated ETL workflows, data pipelines, and business dashboards end-to-end.
 
-**Data Science Intern** — Infinity Analytics Consulting &nbsp;·&nbsp; Nov 2024 – May 2025
+**Data Science Intern** — Infinyty Tech &nbsp;·&nbsp; Nov 2024 – May 2025
 
 - Delivered analytics and machine learning projects across multiple industry verticals.
 - Built dashboards, automated reports, and data workflows for business and product teams.
